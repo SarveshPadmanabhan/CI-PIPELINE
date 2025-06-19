@@ -1,0 +1,7 @@
+numpy as np
+pandas as pd
+flask import flask, request, jsonify
+sklearn.linear_model import LinearRegression
+joblib
+os 
+logging 
