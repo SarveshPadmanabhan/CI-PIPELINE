@@ -1,7 +1,7 @@
 numpy 
 pandas 
 flask
-sklearn
+sklearn.linear_model
 joblib
 os 
 logging 
