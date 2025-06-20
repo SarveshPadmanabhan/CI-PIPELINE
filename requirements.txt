@@ -3,5 +3,4 @@ pandas
 flask
 scikit-learn
 joblib
-os 
 logging 
